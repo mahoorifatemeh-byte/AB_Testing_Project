@@ -200,7 +200,7 @@ An **interactive Power BI dashboard** with three pages:
   - Analyzing the effect on **different user segments** (e.g., new vs. returning users).
   - Running the experiment on a **larger sample size** to detect smaller effects.
 
-  ## 💡 Business Recommendations
+## 💡 Business Recommendations
 
 Based on the A/B test results, we recommend:
 
