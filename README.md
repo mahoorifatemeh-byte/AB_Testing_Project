@@ -163,19 +163,14 @@ The **147% lift** indicates that the treatment group's CTR more than doubled com
 An **interactive Power BI dashboard** with three pages:
 
 ### Page 1: Executive Summary
-- **KPI Cards**: Display Control CTR, Treatment CTR, Lift, and P-Value
-- **Bar Chart**: Visual comparison of CTR with confidence intervals
-- **Slicer**: Filter by device type (Mobile / Desktop)
+![Executive Summary](dashboard/Page-1.png)
 
 ### Page 2: Segmentation Analysis
-- **Grouped Bar Chart**: CTR by device type and group
-- **Table**: CTR by referral source (Email, Search, Social, Direct, Ads)
-- **Slicer**: Filter by device type
+![Segmentation Analysis](dashboard/Page-2.png)
 
 ### Page 3: Trends & Details
-- **Line Chart**: Daily CTR trend for each group over time
-- **Slicers**: Date range, group, and device type filters
-- **Data Table**: Raw data for detailed inspection and search
+![Trends & Details](dashboard/Page-3.png)
+
 
 ---
 
