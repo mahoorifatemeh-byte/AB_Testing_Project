@@ -1,0 +1,47 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (raw data - too large for GitHub)
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# But keep cleaned data if you want (optional)
+!data/cleaned_*.csv
+
+# Output files (optional - depending on your preference)
+# reports/*.csv
+# reports/images/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environment variables (if any)
+.env
+.env.local
+.env.*.local
